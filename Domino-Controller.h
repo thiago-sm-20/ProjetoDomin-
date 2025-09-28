@@ -6,7 +6,7 @@ Autor: Thiago Salanti Mambrini
 #ifndef CONTROLLER_H
 #define CONTROLLER_H
 
-#include "DOM-GLTV-Model.h"
+#include "Domino-Model.h"
 
 void ftempo(int seg);
 void gravar();
@@ -31,3 +31,4 @@ void comprarComputador();
 void jogadaComputador();
 
 #endif
+
