@@ -4,12 +4,12 @@ Projeto Dominó
 Autor: Thiago Salanti Mambrini
 */
 
-#include "DOM-GLTV-Model.cpp"
-#include "DOM-GLTV-Model.h"
-#include "DOM-GLTV-Controller.cpp"
-#include "DOM-GLTV-Controller.h"
-#include "DOM-GLTV-View.cpp"
-#include "DOM-GLTV-View.h"
+#include "Domino-Model.cpp"
+#include "Domino-Model.h"
+#include "Domino-Controller.cpp"
+#include "Domino-Controller.h"
+#include "Domino-View.cpp"
+#include "Domino-View.h"
 #include <stdio.h>
 #include <stdbool.h>
 
@@ -17,4 +17,5 @@ int main(){
     exibirMenu();
     return 0;
 }
+
 
