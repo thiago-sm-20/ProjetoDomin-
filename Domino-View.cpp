@@ -5,7 +5,7 @@ Autor: Thiago Salanti Mambrini
 */
 
 #include <stdio.h>
-#include "DOM-GLTV-View.h"
+#include "Domino-View.h"
 
 void regras(){
 	int i;
@@ -252,4 +252,5 @@ void jogarComp() {
 	    }
 	}
 }
+
 
