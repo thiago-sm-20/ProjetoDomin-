@@ -3,8 +3,8 @@ Projeto Dominó
 25/11/2024
 Autor: Thiago Salanti Mambrini
 */
-#include "DOM-GLTV-View.h"
-#include "DOM-GLTV-Controller.h"
+#include "Domino-View.h"
+#include "Domino-Controller.h"
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
@@ -544,3 +544,4 @@ void jogadaComputador() {      //função que permite o computador realizar uma 
 	comprarComputador(); 
 	jogadaComputador(); 
 }		
+
