@@ -6,7 +6,7 @@ Autor: Thiago Salanti Mambrini
 #ifndef VIEW_H
 #define VIEW_H
 
-#include "DOM-GLTV-Model.h"
+#include "Domino-Model.h"
 
 void regras(); 
 void menuPrincipal();
@@ -20,5 +20,6 @@ void exibirMenu();
 void jogMenu();
 void jogar();
 void jogarComp();
+
 
 #endif
